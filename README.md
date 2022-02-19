@@ -1,0 +1,2 @@
+# svelte-github-clipboard-wc
+
